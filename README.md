@@ -23,6 +23,7 @@ Download Chrome driver and chrome from this link https://googlechromelabs.github
 
 - Start Chrome in Remote Debugging Mode: chrome.exe --remote-debugging-port=9222
 - Run the Script: python single_bet.py
+- Make sure to replace bet amount list 
 
 ## Code Explanation
 
