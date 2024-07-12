@@ -5,7 +5,7 @@ Python script using Selenium and BeautifulSoup for automating betting on Pari Ma
 
 ## YouTube Video
 
-Check out the full tutorial on YouTube: 
+Check out the full tutorial on YouTube: https://www.youtube.com/watch?v=STMTOmn5bt4
 
 ## Requirements
 
